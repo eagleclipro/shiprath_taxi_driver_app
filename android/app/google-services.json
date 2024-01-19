@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "536935076310",
+    "firebase_url": "https://flutter-driver-92111-default-rtdb.firebaseio.com",
+    "project_id": "flutter-driver-92111",
+    "storage_bucket": "flutter-driver-92111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536935076310:android:8006ee2236af1491f0d477",
+        "android_client_info": {
+          "package_name": "com.flutter_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAyeaO24KVwc394azA0pr4mKJ0NzAOGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
